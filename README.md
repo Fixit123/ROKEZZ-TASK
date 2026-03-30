@@ -4,7 +4,7 @@ Browser-based task list: add items, mark them complete, remove them, and switch 
 
 ## Live demo
 
-https://rokezz-task-ikgji5y2z-olayinkaahmed22222-gmailcoms-projects.vercel.app/
+Live demo link is included in the email you send to the recruiter.
 
 ## Run locally
 
